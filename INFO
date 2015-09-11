@@ -1,0 +1,49 @@
+Project: Data Plane Acceleration (DPACC)
+Project Creation Date: February 10, 2015
+Project Category: Requirement
+Lifecycle State: Incubation
+Primary Contact: Lingli Deng (denglingli@chinamobile.com)
+Project Lead: Lingli Deng (denglingli@chinamobile.com)
+Gerrit Repository: dpacc
+Jira Project Name: Data Plane Acceleration
+Jira Project Prefix: DPACC
+Mailing list tag: [dpacc]
+
+Committers:
+
+    Lingli Deng (China Mobile, denglingli@chinamobile.com)
+    Ola Liljedahl (ARM, Ola.Liljedahl@arm.com)
+    Kin-Yip Liu (Cavium, Kin-Yip.Liu@caviumnetworks.com)
+    Xinyu Hu (Huawei, huxinyu@huawei.com)
+    Vincent Jardin (6WIND, vincent.jardin@6wind.com)
+    Wenjing Chu (DELL, Wenjing_Chu@DELL.com)
+    Bin Hu (AT&T, bh526r@att.com)
+    Subhashini Venkataraman (Freescale, subhaav@freescale.com)
+    Leon Wang (Altera, ALEWANG@altera.com)
+    Keith Wiles (Intel, Keith.wiles@intel.com)
+    Xiaowei Ji (ZTE, ji.xiaowei@zte.com.cn)
+
+Contributors:
+
+    Bob Monkman (ARM, Bob.Monkman@arm.com)
+    Peter Willis (British Telecom, peter.j.willis@bt.com)
+    Fahd Abidi (Xilinx, fahd.abidi@xilinx.com)
+    Cyril Chemparathy (EZchip, cchemparathy@ezchip.com)
+    Deepak Unnikrishnan (Altera, deepak.cu@gmail.com)
+    Julien Zhang (ZTE, zhang.jun3g@zte.com.cn)
+    Srini Addepalli (Intel, srinivasa.r.addepalli@intel.com)
+    François-Frédéric Ozog (6WIND, ff.ozog@6wind.com)
+    Tapio Tallgren (Nokia, tapio.tallgren@nsn.com)
+    Mikko Ruotsalainen (Nokia, mikko.ruotsalainen@nsn.com)
+    Zhipeng Huang (Huawei, huangzhipeng@huawei.com)
+    Rabi Abdel (Altera, ahmrabi@altera.com)
+    Venky Venkatesan (Intel, Venky.Venkatesan@intel.com)
+    Alex Mui (ASTRI, alexmui@astri.org)
+    Jesse Ai (ASTRI, jesseai@astri.org)
+    Arashmid Akhavain (Huawei, arashmid.akhavain@huawei.com)
+    Parviz Yegani (Juniper, pyegani@juniper.net)
+    Mario Cho (hephaex@gmail.com)
+    Hongyue Sun (ZTE, sun.hongyue@zte.com.cn)
+    Haishu Zheng (ZTE, zheng.haishu@zte.com.cn)
+    Varun Sethi (Freescale, Varun.Sethi@freescale.com)
+    Bharat Mota (Freescale, bharat.mota@freescale.com)
